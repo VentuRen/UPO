@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x046e5BE4DAdf6713C6f0Ef47D2bCf44236921094",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x046e5BE4DAdf6713C6f0Ef47D2bCf44236921094",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "RinkebyETH",
+    "ID": 4
+  },
+  "NFT_NAME": "UPO NFT",
+  "SYMBOL": "UPONFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/upotestv-v2",
+  "SHOW_BACKGROUND": true
+}
